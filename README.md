@@ -1,6 +1,26 @@
 # Data Visualisation in PowerBI
 
-## 1. Performance Report (Plant Co. Quantity, Sales, and Gross Profit 2023,2024)
+## 1. London Property Market Overview Dashboard
+
+**Overview**:
+
+This interactive dashboard visualizes key insights into the London property market, including:
+- Median sale and rent prices.
+- Property counts by tenure and bedroom type.
+- Historical trends in rent and sale prices.
+- Geographic distribution of property prices.
+
+**Highlights**:
+
+- Provides an intuitive understanding of market trends.
+- Filters for bedroom types and tenure to enable detailed analysis.
+- Maps for geographic insights on price distributions.
+
+**Use Case**:
+
+Ideal for real estate professionals, investors, and policymakers looking to analyze property trends and make informed decisions.
+__________________________
+## 2. Performance Report (Plant Co. Quantity, Sales, and Gross Profit 2023,2024)
 
 **Overview**:
 
@@ -39,7 +59,7 @@ This interactive dashboard visualizes key insights into the London property mark
 
 Ideal for real estate professionals, investors, and policymakers looking to analyze property trends and make informed decisions.
 ___________________________________________
-##3. Sales Dashboard
+##3. Sales Performance Dashboard
 
 **Overview**:
 
