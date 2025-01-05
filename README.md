@@ -5,9 +5,9 @@
 **Overview**:
 
 This dashboard provides a detailed analysis of Plant Co.'s performance in 2023 and 2024, focusing on key metrics such as:
-o	-Production quantities.
-o	-Sales performance.
-o	-Gross profit trends.
+- Production quantities.
+- Sales performance.
+- Gross profit trends.
 It offers a comprehensive view of the company's operational and financial health.
 
 **Highlights**:
